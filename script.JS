@@ -183,3 +183,4 @@ console.log("the cost of ",obj.item , "is ", obj.price,"rupes");
 console.log(output);
 
 console.log ("hi i am ritesh")
+console.log("i love you");
